@@ -9,4 +9,4 @@ CARA MENGGUNAKAN :
 1. Buka Terminal IDE (VsCode)
 2. Ketik Streamlit Run main_tampilan.py
 3. Upload File Gambar yang akan digunakan.
-4. 
+
